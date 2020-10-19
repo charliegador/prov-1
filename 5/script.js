@@ -2,5 +2,5 @@
 function areaOfTriangle(base, height){
     let area = base * height;
 }
-let result = areaOfTriangle(base = 5, height = 5)
+let result = areaOfTriangle(5, 5)
 console.log(result)
